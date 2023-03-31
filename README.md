@@ -6,10 +6,11 @@ Project presented by:
 * Marcela Marilú López
 * María José Cavazos
 
+To perform the data cleaning, we utilized the following methods:
 
-
-
-
-To perform the data cleaning of the contacts file, we chose option 1: Pandas.
+* Categories: Pandas, 
+* Subcategories: Pandas,
+* Campaigns: Pandas,
+* Contacts: Pandas
 
 Note: Please find the SQL-related files under the SQL folder.
