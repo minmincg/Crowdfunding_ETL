@@ -1,10 +1,10 @@
 # Crowdfunding_ETL
 
 Project presented by:
-Roberto Barrón
-Aldo Antonio Silva Espinoza
-Marcela Marilú López
-María José Cavazos
+* Roberto Barrón
+* Aldo Antonio Silva Espinoza
+* Marcela Marilú López
+* María José Cavazos
 
 
 
