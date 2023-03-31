@@ -39,15 +39,15 @@ We extracted and transformed the Excel data to create a campaign DF has the foll
 * cf_id
 * contact_id
 * company_name
-* blurb" column, renamed to "description"
+* description
 * goal
 * pledged 
 * outcome
 * backers_count
 * country
 * currency
-* launched_a" column, renamed to "launch_date" 
-* deadline" column, renamed to "end_date" 
+* launch_date
+* end_date
 * category_id
 * subcategory_id
 
