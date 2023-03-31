@@ -70,7 +70,15 @@ We verified the table creation by running a SELECT statement for each table, the
 
 Finally we verified that each table has the correct data by running a SELECT statement for each.
 
+##Results
 
+We created 3 folders to storage the results:
+
+* Resources: here we can find the csv files that we used to create the DataFrames.
+*
+* DataFrames: here we can find the outputs of the jupyter notebooks.
+* 
+* SQL Querys : here we can find the ERD, the table schemas and sql database.
 
 
 * Note: Please find the SQL-related files under the SQL folder.
