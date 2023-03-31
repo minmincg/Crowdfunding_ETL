@@ -62,7 +62,7 @@ We cleaned the new dataframe by splitting first and last name and rearranging th
 
 ### Create the Crowdfunding Database
 
-From the CSV files we sketched and ERD of the tables using QuickDBD and with this info we created a table schema for each CSV file spceifying the data types, primary keys and foreign keys.
+From the CSV files we sketched and ERD of the tables using QuickDBD and with this info we created a table schema for each CSV file specifying the data types, primary keys and foreign keys.
 
 We saved the database schema as a Postgres file named crowdfunding_db_schema.sql into the GitHub repository.
 
