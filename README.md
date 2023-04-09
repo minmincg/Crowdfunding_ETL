@@ -70,9 +70,9 @@ We verified the table creation by running a SELECT statement for each table, the
 
 Finally we verified that each table has the correct data by running a SELECT statement for each.
 
-##Results
+## Results
 
-We created 3 folders to storage the results:
+We created 3 folders to store the results:
 
 * Resources: here we can find the csv files that we used to create the DataFrames.
 *
@@ -82,3 +82,6 @@ We created 3 folders to storage the results:
 
 
 * Note: Please find the SQL-related files under the SQL folder.
+
+## Analysis conclusion:
+
