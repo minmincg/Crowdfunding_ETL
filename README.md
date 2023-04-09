@@ -4,7 +4,7 @@ Project presented by:
 * Roberto Barrón
 * Aldo Antonio Silva Espinoza
 * Marcela Marilú Maldonado
-* María José Cavazos
+* Marijose Cavazos
 
 To perform the data cleaning, we utilized the following methods:
 
