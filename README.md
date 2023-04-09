@@ -11,7 +11,7 @@ To perform the data cleaning, we utilized the following methods:
 * Categories: Pandas, 
 * Subcategories: Pandas,
 * Campaigns: Pandas,
-* Contacts: Pandas
+* Contacts: Pandas, and regular expressions (not used to export)
 
 ## Introduction
 
