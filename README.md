@@ -84,5 +84,11 @@ We created 3 folders to store the results:
 * Note: Please find the SQL-related files under the SQL folder.
 
 ## Analysis conclusion:
-   It is very common to have unorganized, not ready to use databases that may seem like they are useless because of the structure they were given. Using pandas or regular expressions we can give those datasets a good structure to give them back to the client for them to use with ease. Even though we did not analyze the information per say, only by cleansing and re structuring the data has an added value to the client. Further analysis may be done by having the shareholder's input on what they're looking for specifically. We had some difficulties when trying to create the database but solved the issue using pgAdmin. 
+   It is very common to have unorganized, not ready to use databases that may seem like they are useless because of the structure they were given. Using
+pandas or regular expressions we can give those datasets a good structure to give them back to the client for them to use with ease. Even though we did
+not analyze the information per say, only by cleansing and re structuring the data has an added value to the client. Further analysis may be done by 
+having the shareholder's input on what they're looking for specifically. We had some difficulties when importing the contacts xlsx because all the 
+information was written down in only one column. From there we had to extract and organize the information into different columns to be able to use it. 
+We solved this problem using pandas and also extracted the info with a different method (regex).
+Another difficulty we faced was trying to create the database but solved the issue using pgAdmin. 
 
